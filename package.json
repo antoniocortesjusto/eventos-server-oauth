@@ -1,0 +1,20 @@
+{
+  "name": "eventos-server-oauth",
+  "version": "0.0.1",
+  "description": "Servidor Gestor Eventos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eventos"
+  ],
+  "author": "Antonio Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.10.1",
+    "express-jwt": "~0.4.0",
+    "jsonwebtoken": "~1.1.2",
+    "body-parser": "~1.9.2"
+  }
+}
